@@ -1,4 +1,2 @@
 깃 테스트입니다.
-merge test
-merge test
-merge test
+aaaaaabbb
