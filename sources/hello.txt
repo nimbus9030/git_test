@@ -1,2 +1,4 @@
 hello world.
 merge test
+merge test
+merge test
